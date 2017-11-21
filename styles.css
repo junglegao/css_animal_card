@@ -1,0 +1,36 @@
+/* 添加 CSS */
+#animal-pic {
+  width: 300px;
+  border: 1px solid brown;
+  /*margin: 0 auto;*/
+}
+
+.tips {
+  font-style: italic;
+}
+
+.info-name {
+  font-weight: bold;
+}
+
+.info-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.card {
+  border: 1px solid brown;
+  width: 300px;
+  /*margin: 0 auto;*/
+}
+
+.overview {
+  border: 1px solid brown;
+  width: 350px;
+  height: 700px;
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-left: 25px;
+  box-sizing: border-box;
+  box-shadow: 10px 10px 5px #888888;
+}
